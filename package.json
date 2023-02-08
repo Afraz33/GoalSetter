@@ -1,0 +1,16 @@
+{
+  "name": "goalsetter",
+  "version": "1.0.0",
+  "description": "Project to practice REST APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "author": "Afraz Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3"
+  }
+}
